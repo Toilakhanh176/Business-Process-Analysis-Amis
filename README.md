@@ -1,7 +1,7 @@
 
 # Project: Procurement Process Analysis – MISA AMIS
 
-## 📌 Introduction
+## Introduction
 The main goal is to **analyze the procurement process of MISA Corporation**, evaluate the challenges of manual management, and propose improvements through the **MISA AMIS Procurement system**.
 
 ---
@@ -44,7 +44,7 @@ Additional features:
 
 
   ---
-## 📂 Deliverables
+## Deliverables
 - Procurement process analysis report (PDF).  
 - Functional description of AMIS Procurement.  
 - Analysis of AMIS CRM – AMIS Procurement integration.  
@@ -52,11 +52,11 @@ Additional features:
 
 ---
 
-## 📌 Conclusion
-The project demonstrates that applying **AMIS Procurement** not only resolves the limitations of manual management but also **enhances transparency, reduces costs, and optimizes procurement workflows** within enterprises.
+## Conclusion
+- The project demonstrates that applying **AMIS Procurement** not only resolves the limitations of manual management but also **enhances transparency, reduces costs, and optimizes procurement workflows** within enterprises.
 ---
 
-## 👥 Project Team
+## Project Team
 - Team size: 5
 
 
